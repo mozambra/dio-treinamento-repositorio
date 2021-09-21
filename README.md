@@ -3,4 +3,4 @@ Treinamentos DIO
 
 
 ## Links úteis
-[Sintaxe Basica Marckdown]{https://web.digitalinnovation.one/home/}
+[Sintaxe Basica Markdown]{https://web.digitalinnovation.one/home/}
