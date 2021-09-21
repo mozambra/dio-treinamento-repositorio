@@ -3,4 +3,4 @@ Treinamentos DIO
 
 
 ## Links úteis
-[Sintaxe Basica Markdown]{https://web.digitalinnovation.one/home/}
+[DIO](https://web.digitalinnovation.one/home)
